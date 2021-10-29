@@ -1,4 +1,4 @@
-# MSc-Course-Risk-Management
+# MSc Course Risk-Management
 
 As part of my MSc in Decision Analysis and Data Science, the following assignments were completed as part of the Risk Management course.
 
